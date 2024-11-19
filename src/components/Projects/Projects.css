@@ -1,0 +1,24 @@
+.projects__grid {
+  max-width: 1100px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(18em, 1fr));
+  grid-gap: 2em;
+}
+
+.projects__carousel {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.section {
+  padding: 2em 0;
+}
+
+.section__title {
+  text-align: center;
+  margin-bottom: 1.5em;
+  font-size: 2rem;
+  font-weight: bold;
+}
+

@@ -1,0 +1,73 @@
+.work-experience-timeline {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  .timeline {
+    margin: 0 auto;
+    padding: 20px 0;
+    
+  }
+  
+  .timeline-item {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 20px 0;
+  }
+  
+  .timeline-content {
+    background-color: transparent;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: var(--shadow);
+    transition: transform 0.2s linear;
+  }
+  .timeline-content:hover {
+    transform: translateY(-7px);
+    box-shadow: 3px 3px 3px 3px gray ;
+  }
+  
+  h3 {
+    margin-top: 0;
+  }
+  
+  .responsibilities {
+    margin: 0;
+    padding-left: 20px;
+  }
+
+  li {
+    list-style-type: disc;
+    margin-bottom: 5px;
+    list-style-type: none;
+  }
+  
+/* --------------- */
+  .title-locatn {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .exp-title {
+    margin: 0;
+  }
+  
+  .exp-locatn {
+    margin: 0;
+  }
+  
+  .overvw-duratn {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .overvw {
+    margin: 0;
+  }
+  
+  .duratn {
+    margin: 0;
+  }
