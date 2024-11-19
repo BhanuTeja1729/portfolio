@@ -13,7 +13,7 @@ const about = {
   description:
     "I'm a skilled Application Engineer with experience in building, optimizing, and maintaining software solutions. Proficient in web application frameworks like React, Vite, Django, Bootstrap, and backend technologies such as Node.js and SQL, I specialize in creating dynamic and responsive web applications. My expertise also includes integrating APIs, improving application performance, and ensuring smooth user experiences. I am passionate about leveraging technology to solve real-world problems and deliver efficient, scalable solutions. With a strong focus on collaboration, I thrive in team environments and consistently seek to enhance the development process to achieve optimal results. My commitment to continuous learning helps me stay ahead of industry trends and best practices.",
   resume:
-    "https://drive.google.com/file/d/164yu-pNpzuNoOGs3QhEewlAZqXb564hh/view?usp=sharing",
+    "https://drive.google.com/file/d/1ZgL2qaPSb6fJ0U2bCavUjEpcAC53MuKf/view?usp=sharing",
   social: {
     linkedin:
       "https://www.linkedin.com/in/yarramaddu-bhanuteja-reddy-727629333/",
