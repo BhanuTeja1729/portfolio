@@ -1,3 +1,4 @@
+import React from 'react'
 import Carousel from 'react-material-ui-carousel'
 import uniqid from 'uniqid'
 import { projects } from '../../portfolio'
