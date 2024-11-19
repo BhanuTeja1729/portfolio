@@ -10,7 +10,6 @@ import Footer from './components/Footer/Footer'
 import WorkExperienceTimeline from './components/WorkExperienceTimeline/WorkExperienceTimeline'
 
 import './App.css'
-
 const App = () => {
   const [{ themeName }] = useContext(ThemeContext)
 
