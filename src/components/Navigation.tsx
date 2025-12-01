@@ -71,10 +71,10 @@ export default function Navigation({ scrollY }: NavigationProps) {
                 </button>
               ))}
               <div className="flex gap-4 mt-4">
-                <a href="http://BhanuTeja1729.github.io" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/BhanuTeja1729" target="_blank" rel="noopener noreferrer">
                   <Github size={20} className="text-gray-700" />
                 </a>
-                <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.linkedin.com/in/y-bhanuteja-reddy-109658395" target="_blank" rel="noopener noreferrer">
                   <Linkedin size={20} className="text-gray-700" />
                 </a>
                 <a href="mailto:bhanutejary02@gmail.com">
